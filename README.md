@@ -1,3 +1,33 @@
+# Trabajo Actividad 2 Evaluación de la segmentación
+
+# PRESENTACIÓN
++ ### DARWIN YUSEF GONZALEZ TRIANA
++ ### C.C. 14297510
++ ### © Universidad Internacional de La Rioja (UNIR)
++ ### INVESTIGACIÓN EN IA
+
+![Presentación](https://raw.githubusercontent.com/darwinyusef/20exHuggingFacePytorchTensorFlowSklearn/refs/heads/master/skitimage/intensity/presentacion.png)
+
+# descripción de archivos
+1. [Taller de Segmentación según lo relacionado en la GUIA](https://github.com/darwinyusef/segmentacionYolo11yPython/blob/master/segmentacionDarwinYusefGonzalez14297510.ipynb)
+2. [Análisis de Movimiento en Video con Segmentación y Mapas de Calor con YOLO](https://github.com/darwinyusef/segmentacionYolo11yPython/blob/master/umbrdetectyolo.ipynb)
+3. [Detección de personas usando Segmentación con YOLO11](https://github.com/darwinyusef/segmentacionYolo11yPython/blob/master/main.py)
+   
+
+
+
+## Objetivos
+
+El objetivo de este trabajo es aprender a construir y evaluar el rendimiento de uno o más segmentadores. Esta actividad permitirá consolidar los conceptos sobre segmentación de imágenes aprendidos.
+
+## Descripción
+
+Este trabajo se entrega de forma individual. En él nos vamos a enfrentar a un verdadero problema de segmentación. La segmentación, como se ha visto, consiste en detectar regiones homogéneas y aislar/detectar objetos dentro de una imagen. Estas regiones habitualmente corresponden a los objetos que se están queriendo identificar.
+
+Existen muchas maneras de enfocar este problema y puedes hacer uso de las técnicas de segmentación que consideres para resolverlo. Una vez elegidas estas técnicas, debes evaluar su rendimiento frente a imágenes de ground truth. En caso de que se utilicen partes de un software existente, deberá referenciarse la fuente. Debes mostrar en pantalla los resultados de los principales pasos.
+
+
+
 # Crear un Entorno Virtual en Python e Instalar `freeze`
 
 A continuación, se explica cómo crear un entorno virtual en Python e instalar el paquete `freeze` dentro de este entorno. El entorno virtual es útil para gestionar dependencias de proyectos de manera aislada y evitar conflictos entre bibliotecas.
